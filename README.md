@@ -6,4 +6,3 @@ this respository contains complete course of web design using reactjs
 **webDesign**
 
 *creating a website*
-*s*
