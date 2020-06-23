@@ -7,7 +7,7 @@ this respository contains complete course of web design using reactjs
 
 **webDesign**
 
-*creating a website*
+*creating a website* 
 # Day 02
 
 ##introduction to Git and 
